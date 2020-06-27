@@ -25,7 +25,7 @@ header .title img{width: 30%;margin: 20px auto;}
 .top_con_txt>div>div{margin-bottom: 6%;}
 .top_con_left{padding-right: 64px;border-right: 2px solid #000;}
 .top_con_right{margin-left: 64px;}
-.top_con_btn{font-size: 22px;padding: 18px 70px;color: #AB1530;background-color: #F2F2ED;float: right;}
+.top_con_btn{ font-size: 22px; padding: 18px 70px; color: #AB1530; background-color: #F2F2ED; float: right; font-weight: bold; border-radius: 4px;}
 
 /* news */
 .news .news_con{margin: 0 auto;margin-top: 76px;}
@@ -43,7 +43,7 @@ header .title img{width: 30%;margin: 20px auto;}
 /* .news_con1 .news_con1_bg{width: 100%;height: 100%;position: absolute;left: -14px;top: -14px;background-color: rgba(0, 0, 0, 0.1);z-index: -1;} */
 .news_con1 .right img{width: 100%;box-shadow: -14px -14px 2px rgba(0, 0, 0, 0.05);}
 .news_con1 .left{position: relative;}
-.news_con1 .left div{position: absolute;right: 0;bottom: 0;font-size: 22px;padding: 18px 70px;color: #AB1530;background-color: #F2F2ED;}
+.news_con1 .left div{position: absolute;right: 0;bottom: 0;font-size: 22px;padding: 18px 70px;color: #AB1530;background-color: #F2F2ED;font-weight: bold;border-radius: 4px;}
 
 /* new_con2 */
 .news_con2_title{display: flex;align-items: center;}
@@ -55,7 +55,7 @@ header .title img{width: 30%;margin: 20px auto;}
 .news_img1_img{width: 270px;margin-right: 44px;}
 .news_img1_img img{width: 100%;}
 .news_img1_txt{width: 800px;}
-.news_con2_footer{width: 100%;height: 54px;line-height: 54px;background-color: #F2F2ED;color: #AB1530;text-align: center;font-weight: bold;margin: 24px 0 30px 0;}
+.news_con2_footer{width: 100%;height: 54px;line-height: 54px;background-color: #F2F2ED;color: #AB1530;text-align: center;font-weight: bold;margin: 24px 0 30px 0;border-radius: 4px;}
 
 
 /* news_con3 */
@@ -116,8 +116,8 @@ footer{text-align: center;margin: 0 auto;padding: 20px 100px;}
   .top_con_txt{font-size: 0.24rem;}
   .top_con_left{padding-right: 0.2rem;border-right:1px solid #000;}
   .top_con_right{margin-left: 0.2rem;}
-  .top_con_btn{font-size: 0.22rem;padding:0.2rem 0.3rem;}
-  .news_con1 .left div{font-size: 0.22rem;padding:0.2rem 0.3rem;}
+  .top_con_btn{font-size: 0.2rem;padding:0.2rem 0.3rem;}
+  .news_con1 .left div{font-size: 0.2rem;padding:0.2rem 0.3rem;}
   .news_title_wrap{padding: 0.3rem 0 0.5rem 0;}
   .news_title{margin-top: 0.3rem;}
   .news_title .left{font-size: 0.34rem;}
